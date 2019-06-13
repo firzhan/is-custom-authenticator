@@ -1,0 +1,55 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.identity:org.wso2.carbon.identity.application.authentication.framework:5.2.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/org.wso2.carbon.identity.application.authentication.framework/5.2.2/org.wso2.carbon.identity.application.authentication.framework-5.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/org.wso2.carbon.identity.application.authentication.framework/5.2.2/org.wso2.carbon.identity.application.authentication.framework-5.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/org.wso2.carbon.identity.application.authentication.framework/5.2.2/org.wso2.carbon.identity.application.authentication.framework-5.2.2-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/application-mgt/org.wso2.carbon.identity.application.common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/application-mgt/org.wso2.carbon.identity.application.common/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/application-mgt/org.wso2.carbon.identity.application.mgt.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/application-mgt/org.wso2.carbon.identity.application.mgt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/authentication-framework/org.wso2.carbon.identity.application.authentication.endpoint.util/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/authentication-framework/org.wso2.carbon.identity.application.authentication.framework/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/carbon-authenticators/thrift-authenticator/org.wso2.carbon.identity.authenticator.thrift/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/claim-mgt/org.wso2.carbon.claim.mgt.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/claim-mgt/org.wso2.carbon.claim.mgt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/directory-server-manager/org.wso2.carbon.directory.server.manager.common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/directory-server-manager/org.wso2.carbon.directory.server.manager.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/directory-server-manager/org.wso2.carbon.directory.server.manager/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/directory-server-manager/org.wso2.carbon.directory.server.manager/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/entitlement/org.wso2.carbon.identity.entitlement.common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/entitlement/org.wso2.carbon.identity.entitlement.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/entitlement/org.wso2.carbon.identity.entitlement/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/identity-core/org.wso2.carbon.identity.base/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/identity-core/org.wso2.carbon.identity.core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/identity-mgt/org.wso2.carbon.identity.mgt.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/identity-mgt/org.wso2.carbon.identity.mgt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/identity-mgt/org.wso2.carbon.identity.mgt/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/idp-mgt/org.wso2.carbon.idp.mgt.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/idp-mgt/org.wso2.carbon.idp.mgt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/notification-mgt/org.wso2.carbon.identity.notification.mgt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/policy-editor/org.wso2.carbon.policyeditor/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/provisioning/org.wso2.carbon.identity.provisioning/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/security-mgt/org.wso2.carbon.security.mgt.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/security-mgt/org.wso2.carbon.security.mgt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-mgt/org.wso2.carbon.identity.user.profile.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-mgt/org.wso2.carbon.identity.user.profile/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-mgt/org.wso2.carbon.identity.user.registration/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-mgt/org.wso2.carbon.user.mgt.common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-mgt/org.wso2.carbon.user.mgt.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-mgt/org.wso2.carbon.user.mgt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-mgt/org.wso2.carbon.user.mgt/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-store/org.wso2.carbon.identity.user.store.configuration.deployer/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-store/org.wso2.carbon.identity.user.store.configuration.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-store/org.wso2.carbon.identity.user.store.configuration/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-store/org.wso2.carbon.identity.user.store.count/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/user-store/org.wso2.carbon.user.cassandra/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/workflow-mgt/org.wso2.carbon.identity.workflow.mgt.ui/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/carbon-identity-framework-5.2.2/components/workflow-mgt/org.wso2.carbon.identity.workflow.mgt/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.identity:org.wso2.carbon.identity.application.authenticator.basicauth:5.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/org.wso2.carbon.identity.application.authenticator.basicauth/5.1.2/org.wso2.carbon.identity.application.authenticator.basicauth-5.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/org.wso2.carbon.identity.application.authenticator.basicauth/5.1.2/org.wso2.carbon.identity.application.authenticator.basicauth-5.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/identity/org.wso2.carbon.identity.application.authenticator.basicauth/5.1.2/org.wso2.carbon.identity.application.authenticator.basicauth-5.1.2-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../code-repo/PUBLIC_REPO_WSO2/identity-local-auth-basicauth-5.1.2/components/org.wso2.carbon.identity.application.authenticator.basicauth/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
